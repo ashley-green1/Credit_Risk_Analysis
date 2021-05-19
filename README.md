@@ -13,4 +13,37 @@ To overcome the skewness of the data, we use sklearn to split the data into trai
 
 ## Results
 
+### Random Oversampling
+- 
+![](https://github.com/ashley-green1/Credit_Risk_Analysis/blob/main/Resources/Random_OverSamp_bal_acc_score.png)
+![](https://github.com/ashley-green1/Credit_Risk_Analysis/blob/main/Resources/Random_OverSamp_imb_class_report.png)
 
+
+### SMOTE Oversampling
+-
+![](https://github.com/ashley-green1/Credit_Risk_Analysis/blob/main/Resources/SMOTE_bal_acc_score.png)
+![](https://github.com/ashley-green1/Credit_Risk_Analysis/blob/main/Resources/SMOTE_imb_class_report.png)
+
+
+### Cluster Centroids Undersampling
+-
+![](https://github.com/ashley-green1/Credit_Risk_Analysis/blob/main/Resources/Cluster_Centroids_UnderSamp_bal_acc_score.png)
+![](https://github.com/ashley-green1/Credit_Risk_Analysis/blob/main/Resources/Cluster_Centroids_UnderSamp_imb_class_report.png)
+
+
+### SMOTEENN Combination Sampling
+-
+![](https://github.com/ashley-green1/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN_bal_acc_score.png)
+![](https://github.com/ashley-green1/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN_imb_class_report.png)
+
+
+### Random Forest Classifier
+-
+![](https://github.com/ashley-green1/Credit_Risk_Analysis/blob/main/Resources/rf_acc_score.png)
+![](https://github.com/ashley-green1/Credit_Risk_Analysis/blob/main/Resources/rf_imb_class_report.png)
+
+
+### Easy Ensemble Classifier
+-
+![](https://github.com/ashley-green1/Credit_Risk_Analysis/blob/main/Resources/eec_acc_score.png)
+![](https://github.com/ashley-green1/Credit_Risk_Analysis/blob/main/Resources/eec_imb_class_report.png)
